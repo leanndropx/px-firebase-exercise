@@ -9,8 +9,6 @@ class AuthController extends GetxController{
   final passwordController = TextEditingController();
   GlobalKey<FormState> formKey = GlobalKey<FormState>();
 
-
-
   var title = "Bem-vindo".obs;
   var appBarButton = "Cadastre-se".obs;
   var mainButton = "Entrar".obs;
