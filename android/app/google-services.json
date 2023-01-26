@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788569696514",
+    "project_id": "auth-test-today",
+    "storage_bucket": "auth-test-today.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788569696514:android:b97dedc203196dbedb7a1b",
+        "android_client_info": {
+          "package_name": "com.lpx.noite.noite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788569696514-oldnj8i6ma6m638er9nthtsr4ohla654.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsC75jHRwi05dQCwpJRcfsFwl3h1uaf5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788569696514-oldnj8i6ma6m638er9nthtsr4ohla654.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
