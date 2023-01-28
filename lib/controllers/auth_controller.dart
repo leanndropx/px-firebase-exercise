@@ -57,6 +57,5 @@ class AuthController extends GetxController{
     isLogin.value = !isLogin.value;
     emailController.clear();
     passwordController.clear();
-    formKey = GlobalKey<FormState>();
   }
 }
